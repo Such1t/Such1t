@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Such1t
-- 👀 I’m interested in web devopment,data visualisation,backend programming,frontend
+- 👀 I’m interested in web devopment,data visualisation,data analysis,backend programming,frontend programming
 - 🌱 I’m currently learning nodejs,javascript,php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me suchitmashelkar11@gmail.com
